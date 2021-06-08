@@ -1,0 +1,20 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 1CFD-1F5E
+
+ Directory of C:\xampp\htdocs\Test1\img\Nike
+
+07 Jun 2021  18:53    <DIR>          .
+07 Jun 2021  18:53    <DIR>          ..
+07 Jun 2021  15:11            51ÿ845 air-max-2x-shoe-3hqsQl.jpg
+05 Jun 2021  23:24           552ÿ779 AirMax.jpg
+07 Jun 2021  15:20            18ÿ406 light weight.jpeg
+07 Jun 2021  18:53                 0 list.txt
+07 Jun 2021  15:10            90ÿ882 Logo.jpg
+07 Jun 2021  15:22            79ÿ451 Men White.jpg
+07 Jun 2021  15:19           220ÿ602 Nike Flash Run Division.jpg
+07 Jun 2021  15:13           144ÿ750 Nike MAG.jpg
+05 Jun 2021  20:22            73ÿ377 Nike.jpg
+05 Jun 2021  20:29           177ÿ248 NikeAdapt.jpg
+07 Jun 2021  15:15           243ÿ093 run-division-pinnacle-running-jacket-jv2HB3.jpg
+              11 File(s)      1ÿ652ÿ433 bytes
+               2 Dir(s)  227ÿ356ÿ397ÿ568 bytes free

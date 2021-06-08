@@ -1,0 +1,15 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 1CFD-1F5E
+
+ Directory of C:\xampp\htdocs\Test1\img\Gucci
+
+07 Jun 2021  20:19    <DIR>          .
+07 Jun 2021  20:19    <DIR>          ..
+07 Jun 2021  16:19            22ÿ584 gucci ace red bee.jpeg
+07 Jun 2021  16:18            64ÿ751 gucci-ace-gg-supreme.jpg
+07 Jun 2021  16:21             8ÿ814 Gucci-clothe.jpg
+07 Jun 2021  16:16            16ÿ479 GUCCI-for-Women.jpg
+07 Jun 2021  20:19                 0 list.txt
+07 Jun 2021  16:13            19ÿ379 Logo.jpg
+               6 File(s)        132ÿ007 bytes
+               2 Dir(s)  227ÿ488ÿ428ÿ032 bytes free
